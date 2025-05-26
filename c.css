@@ -4,8 +4,11 @@ body {
 }
 .v49_2 {
   width: 100%;
-  height: 1481px;
-  background: rgb(255, 255, 255);
+    height:1481px;
+  background: url("praznik.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
   opacity: 1;
   position: absolute;
   top: 0px;
@@ -15,7 +18,7 @@ body {
 .praznik {
   width: 100%;
   height: 100%;
-  background: url("../images/v39_5.png");
+  background: url("praznik.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -99,7 +102,7 @@ body {
 .znatsok{
   width: 146px;
   height: 146px;
-  background: url("../images/v41_4.png");
+  background: url("znatsok.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -158,7 +161,7 @@ body {
 .pip {
   width: 591px;
   height: 332px;
-  background: url("../images/v42_19.png");
+  background: url("pip.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -175,7 +178,7 @@ body {
 .bobik {
   width: 526px;
   height: 366px;
-  background: url("../images/v42_24.png");
+  background: url("bobik.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
