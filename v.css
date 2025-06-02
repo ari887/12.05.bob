@@ -1,0 +1,104 @@
+
+body {
+  font-size: 14px;
+}
+.v49_3 {
+  width: 100%;
+  height: 1499px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v39_16 {
+  width: 100%;
+  height: 100%;
+  background: url("../images/v39_16.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v39_17 {
+  width: 100%;
+  height: 175px;
+  background: rgba(0,0,0,0.25);
+  opacity: 1;
+  position: absolute;
+  top: 50px;
+  left: 41px;
+  overflow: hidden;
+}
+.v39_18 {
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.25);
+  opacity: 1;
+  position: absolute;
+  top: 268px;
+  left: 55px;
+  border-top-left-radius: 126px;
+  border-top-right-radius: 126px;
+  border-bottom-left-radius: 126px;
+  border-bottom-right-radius: 126px;
+  overflow: hidden;
+}
+.v39_21 {
+  width: 516px;
+  color: rgba(255,251,251,1);
+  position: absolute;
+  top: 83px;
+  left: 838px;
+  font-family: Prociono;
+  font-weight: Regular;
+  font-size: 96px;
+  opacity: 1;
+  text-align: left;
+}
+.v40_22 {
+  width: 100%;
+  color: rgba(255,246,246,1);
+  position: absolute;
+  top: 386px;
+  left: 103px;
+  font-family: Kyiv*Type Serif;
+  font-weight: Regular;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v41_6 {
+  width: 777px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 777px;
+  left: 1415px;
+  font-family: Kyiv*Type Serif;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: left;
+}
+.v42_15 {
+  width: 625px;
+  height: 386px;
+  background: url("../images/v42_15.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 330px;
+  left: 1528px;
+  border-top-left-radius: 109px;
+  border-top-right-radius: 109px;
+  border-bottom-left-radius: 109px;
+  border-bottom-right-radius: 109px;
+  overflow: hidden;
+}
